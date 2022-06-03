@@ -9,13 +9,12 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-        <Navbar />
-        <Hero />
-        <Analytics />
-        <Newsletter />
-        <Cards />
-        <Footer />
-        
+       <Navbar/>
+       <Hero/>
+       <Analytics/>
+       <Newsletter/>
+       <Cards/>
+       <Footer/>        
     </div>
   )
 }
