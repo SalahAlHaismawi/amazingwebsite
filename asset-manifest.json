@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/amazingwebsite/static/css/main.5fd524dd.css",
-    "main.js": "/amazingwebsite/static/js/main.51104731.js",
+    "main.css": "/amazingwebsite/static/css/main.de1bf1e4.css",
+    "main.js": "/amazingwebsite/static/js/main.cebcf568.js",
     "static/media/laptop.jpg": "/amazingwebsite/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "static/media/single.png": "/amazingwebsite/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/double.png": "/amazingwebsite/static/media/double.8be045e6bb88be63d414.png",
     "static/media/triple.png": "/amazingwebsite/static/media/triple.4eb8f19f4b4647321484.png",
     "index.html": "/amazingwebsite/index.html",
-    "main.5fd524dd.css.map": "/amazingwebsite/static/css/main.5fd524dd.css.map",
-    "main.51104731.js.map": "/amazingwebsite/static/js/main.51104731.js.map"
+    "main.de1bf1e4.css.map": "/amazingwebsite/static/css/main.de1bf1e4.css.map",
+    "main.cebcf568.js.map": "/amazingwebsite/static/js/main.cebcf568.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fd524dd.css",
-    "static/js/main.51104731.js"
+    "static/css/main.de1bf1e4.css",
+    "static/js/main.cebcf568.js"
   ]
 }
