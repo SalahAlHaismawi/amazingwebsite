@@ -1,11 +1,14 @@
-import React from 'react'
+import React,{useRef} from 'react'
 import Single from '../assets/single.png'
 import Double from '../assets/double.png'
 import Triple from '../assets/triple.png'
+import getStarted from '../components/Hero'
 
 const Cards = () => {
+   
+
   return (
-    <div className="w-full py-[10rem] px-4 bg-white">
+    <div  className="w-full py-[10rem] px-4 bg-white">
         <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
             <div className="w-full shadow-xl flex flex-col py-4 my-4 rounded-lg hover:scale-105 duration-300">
                 <img  className="w-20 mx-auto mt-[-3rem] bg-white" src={Single}/>

@@ -11,12 +11,7 @@ function Analytics() {
               'md:text-4xl sm:text-3xl text-2xl font-bold py-2'>
                Manage your website
               </h1>
-              <p>Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Totam enim cum repudiandae porro pariatur 
-                reprehenderit asperiores nesciunt beatae, ipsum ipsam, quis
-                suscipit deleniti, quo dolores reiciendis! Molestias nobis 
-                numquam placeat!</p>
-                <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 '>Get Started</button>
+              <p>Growth start from the understanding of your surroundings, and data is the main pillar to build strong financial decisions. <b>excel as a Business. Get Started!</b> </p>
             </div>
         </div>
     </div>

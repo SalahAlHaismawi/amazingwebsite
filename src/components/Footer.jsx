@@ -11,7 +11,7 @@ const Footer = () => {
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
         <div>
           <h1 className="w-full text-3xl font-bold text-[#00df9a]">PHNX.</h1>
-          <p className="py-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat minima vitae accusamus maxime facilis sint optio rerum quos et facere. Perspiciatis fuga error ut rerum</p>
+          <p className="py-4">For Smart Buisness Solutions,and Software implementation.</p>
           <div className='flex justify-between md:w-[75%] my-6'>
               <FaFacebookSquare size={30}/>
               <FaInstagram size={30}/>
