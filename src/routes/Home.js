@@ -1,20 +1,10 @@
-import Analytics from 'components/Analytics'
-import Cards from 'components/Cards'
-import Footer from 'components/Footer'
-import Hero from 'components/Hero'
-import Navbar from 'components/Navbar'
-import Newsletter from 'components/Newsletter'
+
 import React from 'react'
 
 const Home = () => {
   return (
     <div>
-       <Navbar/>
-       <Hero/>
-       <Analytics/>
-       <Newsletter/>
-       <Cards/>
-       <Footer/>        
+      <h1 className="text-white">Fuckkkk</h1>      
     </div>
   )
 }
