@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
 import {AiOutlineClose, AiOutlineMenu} from 'react-icons/ai'
-import {Link} from 'react-scroll'
 const Navbar = () => {
   const [nav, setNav] = useState(false)
  
