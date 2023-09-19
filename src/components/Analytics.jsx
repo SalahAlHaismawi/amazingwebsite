@@ -11,6 +11,7 @@ function Analytics() {
               'md:text-4xl sm:text-3xl text-2xl font-bold py-2'>
                Manage your website
               </h1>
+              {/*  test*/}
               <p>Growth start from the understanding of your surroundings, and data is the main pillar to build strong financial decisions. <b>excel as a Business. Get Started!</b> </p>
             </div>
         </div>
